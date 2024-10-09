@@ -16,8 +16,8 @@ This is a simple Discord bot that sends a random Hadith every 12 hours to a spec
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/hadith-discord-bot.git
-   cd hadith-discord-bot
+   git clone https://github.com/T-P-S-G-A/Discord-Hadith-Bot.git
+   cd Discord-Hadith-Bot
 
 
 ## How to use:
