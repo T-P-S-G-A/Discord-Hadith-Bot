@@ -22,3 +22,8 @@ This is a simple Discord bot that sends a random Hadith every 12 hours to a spec
 
 ## How to use:
 - Replace all **"Placeholder" Variables Values** with Your Personal DiscordAPI Token and Channel ID & Role ID
+- Execute the Python Program after setting up your Discord Bot (with Necessary Intents)
+
+   ### Intents that are Required
+   - (Guilds) Server Members Intent
+   - Message Content Intent
